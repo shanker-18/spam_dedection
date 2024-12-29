@@ -1,0 +1,101 @@
+Email ID,Sender,Subject,Email Content,Is Spam
+E1,carol@example.com,Win a free iPhone,Update your profile,0
+E2,alice@example.com,Limited time offer,Update your profile,0
+E3,bob@example.com,Win a free iPhone,Exclusive offer just for you!,0
+E4,dave@example.com,Your account needs attention,Your bank account needs verification,0
+E5,alice@example.com,Win a free iPhone,Update your profile,0
+E6,alice@example.com,Win a free iPhone,Exclusive offer just for you!,0
+E7,bob@example.com,Your account needs attention,Update your profile,0
+E8,dave@example.com,Your account needs attention,Your bank account needs verification,0
+E9,alice@example.com,Limited time offer,"Congratulations, you have won...",0
+E10,alice@example.com,Limited time offer,Exclusive offer just for you!,0
+E11,carol@example.com,Your account needs attention,Your bank account needs verification,1
+E12,alice@example.com,Limited time offer,Exclusive offer just for you!,1
+E13,dave@example.com,Limited time offer,Your bank account needs verification,0
+E14,alice@example.com,Your invoice is ready,Update your profile,0
+E15,carol@example.com,Your account needs attention,Exclusive offer just for you!,0
+E16,bob@example.com,Limited time offer,Update your profile,0
+E17,carol@example.com,Limited time offer,"Congratulations, you have won...",0
+E18,carol@example.com,Limited time offer,Your bank account needs verification,0
+E19,alice@example.com,Limited time offer,Update your profile,0
+E20,dave@example.com,Win a free iPhone,Update your profile,0
+E21,dave@example.com,Win a free iPhone,"Congratulations, you have won...",0
+E22,alice@example.com,Your account needs attention,Your bank account needs verification,0
+E23,dave@example.com,Your invoice is ready,Your bank account needs verification,1
+E24,carol@example.com,Limited time offer,"Congratulations, you have won...",0
+E25,dave@example.com,Your account needs attention,Your bank account needs verification,0
+E26,dave@example.com,Your invoice is ready,Your bank account needs verification,0
+E27,bob@example.com,Win a free iPhone,Your bank account needs verification,0
+E28,bob@example.com,Your invoice is ready,Update your profile,1
+E29,dave@example.com,Your invoice is ready,Update your profile,0
+E30,bob@example.com,Win a free iPhone,Update your profile,0
+E31,carol@example.com,Win a free iPhone,Update your profile,0
+E32,carol@example.com,Limited time offer,Your bank account needs verification,0
+E33,carol@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E34,carol@example.com,Your invoice is ready,Exclusive offer just for you!,1
+E35,dave@example.com,Your account needs attention,Exclusive offer just for you!,0
+E36,alice@example.com,Your account needs attention,Your bank account needs verification,0
+E37,dave@example.com,Your account needs attention,Your bank account needs verification,0
+E38,dave@example.com,Limited time offer,"Congratulations, you have won...",1
+E39,alice@example.com,Limited time offer,Your bank account needs verification,0
+E40,dave@example.com,Your account needs attention,Exclusive offer just for you!,0
+E41,bob@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E42,bob@example.com,Your account needs attention,Your bank account needs verification,0
+E43,dave@example.com,Your invoice is ready,Update your profile,0
+E44,bob@example.com,Your account needs attention,Exclusive offer just for you!,0
+E45,carol@example.com,Limited time offer,Your bank account needs verification,0
+E46,bob@example.com,Win a free iPhone,"Congratulations, you have won...",0
+E47,dave@example.com,Win a free iPhone,Your bank account needs verification,0
+E48,alice@example.com,Your account needs attention,Exclusive offer just for you!,0
+E49,carol@example.com,Limited time offer,Your bank account needs verification,0
+E50,dave@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E51,alice@example.com,Limited time offer,Your bank account needs verification,1
+E52,bob@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E53,alice@example.com,Limited time offer,Exclusive offer just for you!,0
+E54,carol@example.com,Limited time offer,Exclusive offer just for you!,0
+E55,dave@example.com,Limited time offer,"Congratulations, you have won...",1
+E56,dave@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E57,carol@example.com,Limited time offer,Exclusive offer just for you!,0
+E58,dave@example.com,Win a free iPhone,Exclusive offer just for you!,0
+E59,bob@example.com,Your account needs attention,Update your profile,0
+E60,bob@example.com,Limited time offer,"Congratulations, you have won...",0
+E61,bob@example.com,Your invoice is ready,Your bank account needs verification,0
+E62,carol@example.com,Limited time offer,Exclusive offer just for you!,0
+E63,alice@example.com,Your invoice is ready,Exclusive offer just for you!,0
+E64,carol@example.com,Limited time offer,Exclusive offer just for you!,0
+E65,carol@example.com,Win a free iPhone,Exclusive offer just for you!,0
+E66,carol@example.com,Limited time offer,Exclusive offer just for you!,0
+E67,dave@example.com,Your account needs attention,"Congratulations, you have won...",0
+E68,dave@example.com,Limited time offer,Your bank account needs verification,0
+E69,bob@example.com,Your invoice is ready,Exclusive offer just for you!,0
+E70,bob@example.com,Limited time offer,Exclusive offer just for you!,0
+E71,carol@example.com,Your invoice is ready,Update your profile,0
+E72,alice@example.com,Win a free iPhone,"Congratulations, you have won...",1
+E73,dave@example.com,Limited time offer,Update your profile,0
+E74,carol@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E75,dave@example.com,Win a free iPhone,Update your profile,1
+E76,bob@example.com,Your account needs attention,Update your profile,1
+E77,bob@example.com,Limited time offer,"Congratulations, you have won...",1
+E78,dave@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E79,carol@example.com,Your invoice is ready,Exclusive offer just for you!,0
+E80,carol@example.com,Your invoice is ready,Update your profile,0
+E81,alice@example.com,Win a free iPhone,Your bank account needs verification,0
+E82,alice@example.com,Win a free iPhone,Exclusive offer just for you!,0
+E83,carol@example.com,Win a free iPhone,Exclusive offer just for you!,1
+E84,alice@example.com,Win a free iPhone,Your bank account needs verification,0
+E85,carol@example.com,Limited time offer,Exclusive offer just for you!,1
+E86,bob@example.com,Your invoice is ready,"Congratulations, you have won...",0
+E87,bob@example.com,Limited time offer,"Congratulations, you have won...",0
+E88,alice@example.com,Your account needs attention,Update your profile,0
+E89,bob@example.com,Your invoice is ready,Update your profile,1
+E90,dave@example.com,Limited time offer,Update your profile,0
+E91,bob@example.com,Your invoice is ready,Your bank account needs verification,0
+E92,alice@example.com,Win a free iPhone,"Congratulations, you have won...",0
+E93,alice@example.com,Your invoice is ready,Your bank account needs verification,0
+E94,carol@example.com,Win a free iPhone,Your bank account needs verification,0
+E95,bob@example.com,Your account needs attention,Exclusive offer just for you!,0
+E96,carol@example.com,Win a free iPhone,Your bank account needs verification,1
+E97,bob@example.com,Limited time offer,"Congratulations, you have won...",0
+E98,carol@example.com,Limited time offer,Your bank account needs verification,0
+E99,carol@example.com,Your invoice is ready,Exclusive offer just for you!,0
+E100,bob@example.com,Your invoice is ready,Update your profile,0
